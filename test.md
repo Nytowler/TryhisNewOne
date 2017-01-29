@@ -1,3 +1,3 @@
-Just branched.
+Now this is after I generated a pull request and merged to the master.
 
-Lets make another change and see where these actually are kept.
+There was a change on the master, but it isn't synced yet.
